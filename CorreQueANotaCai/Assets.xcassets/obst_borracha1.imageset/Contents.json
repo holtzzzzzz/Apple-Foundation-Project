@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "pixel-de-livro-aberto-ícone-leitura-do-vetor-contorno-da-borda-azul-forma-página-amarela-eps-368955266.jpg-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
